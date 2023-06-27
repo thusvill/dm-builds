@@ -1,5 +1,6 @@
 # dm-builds
-Builds
+🔨<b>Builds</b>🔨
 
-All Windows and Linux builds include here.
-:)
+Linux 📎: [Download](https://github.com/thusvill/dm-builds/tree/main/linux) 
+
+Windows 📎: [Download](https://github.com/thusvill/dm-builds/tree/main/win)
