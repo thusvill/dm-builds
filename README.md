@@ -1,5 +1,5 @@
 # dm-builds
-🔨<b>Builds</b>🔨
+<h1>🔨Builds🔨</h1>
 
 Linux 📎: [Download](https://github.com/thusvill/dm-builds/tree/main/linux) 
 
